@@ -1,2 +1,2 @@
-# Woker
-The Wok Log 
+# Worker
+The Work Log 
